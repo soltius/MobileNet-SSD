@@ -18,7 +18,7 @@ average_loss: 10
 stepvalue: 20000
 stepvalue: 40000
 iter_size: 1
-type: "RMSProp"
+type: "SGD"
 eval_type: "detection"
 ap_version: "11point"
 
