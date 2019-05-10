@@ -1,0 +1,7 @@
+example/
+snapshot/
+labelmap.prototxt
+log.txt
+output.log
+test_lmdb
+trainval_lmdb
