@@ -2381,7 +2381,7 @@ layer {
   }
 }
 layer {
-  name: "conv11_mbox_conf_new"
+  name: "conv11_mbox_conf"
   type: "Convolution"
   bottom: "conv11"
   top: "conv11_mbox_conf"
@@ -2491,7 +2491,7 @@ layer {
   }
 }
 layer {
-  name: "conv13_mbox_conf_new"
+  name: "conv13_mbox_conf"
   type: "Convolution"
   bottom: "conv13"
   top: "conv13_mbox_conf"
@@ -2603,7 +2603,7 @@ layer {
   }
 }
 layer {
-  name: "conv14_2_mbox_conf_new"
+  name: "conv14_2_mbox_conf"
   type: "Convolution"
   bottom: "conv14_2"
   top: "conv14_2_mbox_conf"
@@ -2715,7 +2715,7 @@ layer {
   }
 }
 layer {
-  name: "conv15_2_mbox_conf_new"
+  name: "conv15_2_mbox_conf"
   type: "Convolution"
   bottom: "conv15_2"
   top: "conv15_2_mbox_conf"
@@ -2827,7 +2827,7 @@ layer {
   }
 }
 layer {
-  name: "conv16_2_mbox_conf_new"
+  name: "conv16_2_mbox_conf"
   type: "Convolution"
   bottom: "conv16_2"
   top: "conv16_2_mbox_conf"
@@ -2939,7 +2939,7 @@ layer {
   }
 }
 layer {
-  name: "conv17_2_mbox_conf_new"
+  name: "conv17_2_mbox_conf"
   type: "Convolution"
   bottom: "conv17_2"
   top: "conv17_2_mbox_conf"
